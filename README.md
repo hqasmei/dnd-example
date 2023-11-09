@@ -38,3 +38,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Resources
 
 [DND Kit Examples](https://github.com/clauderic/dnd-kit/tree/master/stories/3%20-%20Examples)
+[CodeBox Example](https://codesandbox.io/s/dnd-kit-sortable-starter-template-22x1ix?file=/src/components/SortableList/components/SortableItem/SortableItem.css:854-874)
